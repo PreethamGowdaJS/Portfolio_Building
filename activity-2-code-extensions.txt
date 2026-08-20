@@ -1,0 +1,7 @@
+1. The C/C++ extension changed my day-to-day typing and editing the most because it gives suggestions, highlights errors, and makes writing code easier.
+
+2. The C/C++ extension is mainly about the code itself, like errors, suggestions and debugging. Git and GitHub are more about collaboration, version control and keeping track of changes.
+
+3. I would keep Git and C/C++ enabled for most projects. Language-specific extensions like Python or Java I would enable only when I am working with those languages.
+
+4. Live Share felt more interactive than screen sharing because both people can work on the same code at the same time. In screen sharing, usually one person controls the screen, but with Live Share we can edit and discuss the code together.
