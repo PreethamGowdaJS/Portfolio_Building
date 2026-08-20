@@ -1,0 +1,7 @@
+I set up my C development environment on Windows using MSYS2 and GCC.
+Initially, the `gcc` command was not recognized in the terminal because of a PATH issue.
+I removed the old MSYS2 installation and installed it again.
+I installed the GCC compiler using the MSYS2 UCRT64 environment.
+I verified that GCC 16.2.0 was working correctly in the MSYS2 terminal.
+I added `C:\msys64\ucrt64\bin` to the Windows PATH.
+Finally, I tested `gcc --version` successfully from the Windows terminal.
